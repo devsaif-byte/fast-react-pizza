@@ -1,4 +1,4 @@
-<h1 align="center" id="title">fast-react-pizza</h1>
+<h1 align="center" id="title">fast-pizza-delivery-order</h1>
 
 <p id="description">A pizza store where user can order pizza</p>
 
